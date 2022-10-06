@@ -26,7 +26,7 @@ git clone https://github.com/Shaswot-Dhungana/Advance-Metasploit-Installer && cd
 
 ## Command 5 :~ 
 ```
-msf-start
+start-msf
 ```
 
 
