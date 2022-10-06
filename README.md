@@ -1,9 +1,27 @@
 # Advance-Metasploit-Installer
 
 
+## Follow The Commands to Install Metasploit Framework in Termux.
 
+## Command 1 :~ 
+```
+apt update -y
+```
 
+## Command 2 :~ 
+```
+apt upgrade -y
+```
 
+## Command 3 :~ 
+```
+apt install git openjdk-17 -y
+```
+
+## Command 4 :~
+```
+git clone https://github.com/Shaswot-Dhungana/Advance-Metasploit-Installer && cd Advance-Metasploit-Installer && chmod +x * && java Host ;
+```
 
 
 ### Connect with me:
