@@ -29,18 +29,27 @@ git clone https://github.com/Shaswot-Dhungana/Advance-Metasploit-Installer && cd
 msf-start
 ```
 
-## Command 5 :~ 
-```
-apt
-```
 
-
-## Command 7 :~ 
+## Command 6 :~ 
 ```
 wget https://github.com/Shaswot-Dhungana/Advance-Metasploit-Installer/raw/main/Debian.class && chmod +x Debian.class && java Debian.class && exit ;
 ```
 
+## Command 7 :~ 
+```
+exit 
+```
+## MetaSploit Framework is now Installed Successfully.
+## Now Everytime while Opening Metasploit Use the Below Commands.
 
+## Command 8 :~ 
+```
+start-msf
+```
+## Command 9 :~ 
+```
+msfconsole
+```
 
 
 ### Connect with me:
