@@ -24,6 +24,9 @@ apt install git openjdk-17 -y
 git clone https://github.com/Shaswot-Dhungana/Advance-Metasploit-Installer && cd Advance-Metasploit-Installer && chmod +x * && java Host ; exit ;
 ```
 
+## Note Installation Make Take 15-20 minutes..
+## so Have Patience... ...
+
 ## Command 5 :~ 
 ```
 start-msf
