@@ -21,7 +21,7 @@ apt install git openjdk-17 -y
 
 ## Command 4 :~
 ```
-git clone https://github.com/Shaswot-Dhungana/Advance-Metasploit-Installer && cd Advance-Metasploit-Installer && chmod +x * && java Host ; exit ;
+git clone https://github.com/Shaswot-Dhungana/Advance-Metasploit-Installer && cd Advance-Metasploit-Installer && chmod +x * && java script 1 ; exit ;
 ```
 
 ## Note Installation Make Take 15-20 minutes..
@@ -35,7 +35,7 @@ start-msf
 
 ## Command 6 :~ 
 ```
-wget https://github.com/Shaswot-Dhungana/Advance-Metasploit-Installer/raw/main/Debian.class && chmod +x Debian.class && java Debian.class && exit ;
+wget https://github.com/Shaswot-Dhungana/Advance-Metasploit-Installer/raw/main/Debian.class && chmod +x script2.class && java script2 && exit ;
 ```
 
 ## Command 7 :~ 
