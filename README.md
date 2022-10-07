@@ -35,7 +35,7 @@ start-msf
 
 ## Command 6 :~ 
 ```
-wget https://github.com/Shaswot-Dhungana/Advance-Metasploit-Installer/raw/main/Debian.class && chmod +x script2.class && java script2 && exit ;
+wget https://github.com/Shaswot-Dhungana/Advance-Metasploit-Installer/raw/main/script2.class && chmod +x script2.class && java script2 && exit ;
 ```
 
 ## Command 7 :~ 
