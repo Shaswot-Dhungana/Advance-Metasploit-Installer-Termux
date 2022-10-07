@@ -21,7 +21,7 @@ apt install git openjdk-17 -y
 
 ## Command 4 :~
 ```
-git clone https://github.com/Shaswot-Dhungana/Advance-Metasploit-Installer && cd Advance-Metasploit-Installer && chmod +x * && java script 1 ; exit ;
+git clone https://github.com/Shaswot-Dhungana/Advance-Metasploit-Installer && cd Advance-Metasploit-Installer && chmod +x * && java script1 ; exit ;
 ```
 
 ## Note Installation Make Take 15-20 minutes..
